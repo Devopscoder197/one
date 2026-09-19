@@ -1126,7 +1126,7 @@
         <div class="container header-inner">
             <div style="display:flex;align-items:center;gap:12px;">
                 <button class="mobile-toggle" id="mobileToggle" aria-label="Toggle menu">
-                    <em class="fas fa-bars"></i>
+                    <im class="fas fa-bars"></i>
                 </button>
                 <a class="brand" href="#">
                     <em class="fas fa-store-alt"></i>
